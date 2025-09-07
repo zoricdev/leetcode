@@ -1,4 +1,4 @@
-# ⚡ LeetCode Problem Solutions & Explanations
+# ⚡ LeetCode problem solutions & explanations
 
 Welcome to my **LeetCode journey**! 🚀 
 
