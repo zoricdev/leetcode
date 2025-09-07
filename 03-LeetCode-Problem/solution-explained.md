@@ -1,4 +1,4 @@
-02 solution explained
+03 solution explained
 
 function aVeryBigSum(ar) {
     <!-- function name is aVeryBigSum and it takes one parameter, ar, which is an array of long integers. -->
